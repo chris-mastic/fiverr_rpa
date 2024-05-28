@@ -1,0 +1,2 @@
+Create a script to run after user logs in. The script needs to fill in 1 field and search/create a duplicate tab and enter
+a different value in the same field and search.

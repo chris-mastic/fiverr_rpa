@@ -1,7 +1,5 @@
 import pyautogui
-import pytesseract
 import cv2
-import numpy as np
 import screeninfo
 import time
 
@@ -21,8 +19,8 @@ for screen in screens:
         break
 print(main_screen)
 
-#png_list = ['484.png', '4841.png', '4842.png', '48411.png', '484110.png', '484121.png', '484230.png', '492110.png']
-png_list = ['484.png']
+png_list = ['484.png', '4841.png', '4842.png', '48411.png', '484110.png', '484121.png', '484230.png', '492110.png']
+# png_list = ['484.png']
 # result = pyautogui.locateOnScreen('484.png')
 # print(f"result{result}")
 for png in png_list:
