@@ -3,6 +3,8 @@ a different value in the same field and search.
 
 https://www.fedconnect.net/FedConnect/PublicPages/PublicSearch/Public_Opportunities.aspx
 
+https://www.anysoftwaretools.com/duplicate-tab-chrome-mac/
+
 process:
 1. User logs in
 2. User clicks "message center" tab
