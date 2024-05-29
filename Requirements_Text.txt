@@ -5,6 +5,13 @@ https://www.fedconnect.net/FedConnect/PublicPages/PublicSearch/Public_Opportunit
 
 https://www.anysoftwaretools.com/duplicate-tab-chrome-mac/
 
+Install 
+    https://chromewebstore.google.com/
+    search: Duplicate Tab shortcut
+    click on 'Duplicate Tab Shortcut' stefansundin.github.io
+    Click on 'Add to Chrome'
+    Click on 'Add extension' button in 'Add "Duplicate Tab Shortcut"? popup
+
 process:
 1. User logs in
 2. User clicks "message center" tab
