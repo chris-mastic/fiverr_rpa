@@ -1,2 +1,28 @@
 Create a script to run after user logs in. The script needs to fill in 1 field and search/create a duplicate tab and enter
 a different value in the same field and search.
+
+https://www.fedconnect.net/FedConnect/PublicPages/PublicSearch/Public_Opportunities.aspx
+
+process:
+1. User logs in
+2. User clicks "message center" tab
+3. User clicks "all opportunities" tab
+4. User clicks on drop-down list box
+5. User selects "NAICS" from list
+6. User Enters code
+7. Users clicks "search"
+8. If opportunites are found:
+    • Users duplicates tab
+9. Repeat steps 6 - 8
+
+NB: Step 8
+    All column with the following fields will appear if an opportunity for that code is found:
+        Title
+        Type
+        Agency
+        Issuing Office
+        Issue Date
+        Response Due Date
+        PSC/FSC
+        NAICS
+        Reference Number
